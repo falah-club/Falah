@@ -1,3 +1,5 @@
+we have a cool url as is if this can be our website page thats good we can use one of the tailwind templates here but falah would be just a open source project and also a events app like luma 
+
 # Deploy Next.js to GitHub Pages
 
 This is a Next.js template which can be deployed to GitHub Pages as a static site.
